@@ -1,0 +1,8 @@
+@font-face {
+    font-family: gilroy;
+    src: url("./font/Gilroy-Medium.otf");
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
